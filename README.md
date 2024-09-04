@@ -43,10 +43,6 @@ Para eliminar una tarea:
 - Listar las tareas y anotar el número de la tarea que deseas eliminar.
 - Ingresar el número de la tarea cuando se solicite.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para obtener el texto completo de la licencia.
-
 ## Contacto
 
 Si tienes alguna pregunta o comentario, puedes contactarme en [juan.pablo.giraldo.0905@gmail.com](mailto:juan.pablo.giraldo.0905@gmail.com).
