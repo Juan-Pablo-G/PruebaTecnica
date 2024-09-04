@@ -1,0 +1,14 @@
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.exe.config
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.exe
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.pdb
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.exe
+C:\Users\Juan\source\repos\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.pdb
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.exe.config
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.exe
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\bin\Debug\Prueba Tecnica.pdb
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.exe
+C:\Users\Juan\Desktop\Prueba Tecnica\GestionListaTareas\Prueba Tecnica\obj\Debug\Prueba Tecnica.pdb
